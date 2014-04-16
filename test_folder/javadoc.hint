@@ -1,0 +1,5 @@
+生成Javadoc命令须注意加上 -encoding utf-8 选项，不然Javadoc不认识汉字！
+
+@see @link use-help
+需要加上花括号{}，#号，类似html中的anchor label，类名可写可不写报名，本类总链接不需要类名
+{@link [classname || withPackageClassname]#setWhetherTrimIgnorePattern}
